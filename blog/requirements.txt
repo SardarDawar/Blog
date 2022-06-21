@@ -38,7 +38,7 @@ imagestore==3.1.0
 jdcal==1.4.1
 kombu==4.6.3
 Menus==0.2.0
-numpy==1.17.0
+numpy==1.22.0
 oauthlib==3.0.2
 odfpy==1.4.0
 openpyxl==2.4.11
